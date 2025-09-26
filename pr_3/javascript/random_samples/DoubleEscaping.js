@@ -1,3 +1,4 @@
+
 //{fact rule=autoescape-disabled@v1.0 defects=1}
 
 module.exports.encode = function(s) {
